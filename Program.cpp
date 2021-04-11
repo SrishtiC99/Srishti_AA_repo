@@ -8,6 +8,7 @@ void Solve(){
   cout<<"Hello I'm Srishti! and You??\n";
   int n;
   cin>>n;
+  cout<<"Square of "<<n<<": ";
   cout<<n*n<<"\n";
   cout<<"Thank You! :)\n";
   return;
