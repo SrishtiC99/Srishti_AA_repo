@@ -5,7 +5,10 @@ using namespace std;
 //(a/b)%m =((a%m)*pow(b,m-2)%m)%m
 
 void Solve(){
-  cout<<"This Function does nothing!!\n";
+  cout<<"Hello I'm Srishti! and You??\n";
+  int n;
+  cin>>n;
+  cout<<n*n<<"\n";
   return;
 }
 
