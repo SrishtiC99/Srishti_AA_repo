@@ -9,6 +9,7 @@ void Solve(){
   int n;
   cin>>n;
   cout<<n*n<<"\n";
+  cout<<"Cube of given number is: "<<n*n*n<<"\n";
   cout<<"Thank You! :)\n";
   return;
 }
