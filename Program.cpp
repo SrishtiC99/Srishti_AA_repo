@@ -11,7 +11,8 @@ void Solve(){
   cout<<"Square of "<<n<<": ";
   cout<<n*n<<"\n";
   cout<<"Cube of given number is: "<<n*n*n<<"\n";
-  cout<<"Thank You! :)\n";
+  
+  
   return;
 }
 
